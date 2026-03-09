@@ -1,3 +1,7 @@
 div{
     background-color: tomato;
 }
+img{
+    width: 200px;
+    border: aqua solid 10px;
+}
